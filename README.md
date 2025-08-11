@@ -50,6 +50,12 @@ Open a pull request
 
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+## ☕ About the Creator
+
+This project was built by someone who drinks coffee and knows things.  
+Fueled by curiosity, caffeine, and a fascination with the outer edges of our solar system, this toolkit is just one step in a long journey of cosmic exploration.
+
+If you're into data, space, or just want to chat about weird orbital mechanics, reach out: lookingfor3d3@gmail.com
 
 📫 Contact
 For questions or collaboration inquiries, reach out via GitHub Issues or email: lookingfor3d3@gmail.com
